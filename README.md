@@ -14,21 +14,6 @@ This repository contains the source code for my personal portfolio website and h
 
 ## Featured Projects
 
-### Company Z Financial Forecast & Valuation Model
-A three-year Excel financial modeling case study featuring:
-
-- Historical financial analysis
-- Bear, Base, and Bull scenarios
-- Revenue and margin forecasting
-- Operating income and net income projections
-- Diluted EPS calculations
-- P/E-based valuation
-- Implied share price analysis
-- Sensitivity analysis and dashboard charts
-
-**Project Repository:**  
-https://github.com/santidiazlondono/company-z-financial-model
-
 ### Financial Statement Analysis in Tableau
 Analyzed financial statements and key ratios using Tableau, including profitability, asset efficiency, leverage, and return measures.
 
@@ -46,6 +31,22 @@ https://github.com/santidiazlondono/tableau-financial-statement-analysis
 - Tableau
 - Data Visualization
 - Financial Research
+- 
+### Velora Athletics Financial Forecast & Valuation Model
+A three-year Excel financial modeling case study featuring:
+
+- Historical financial analysis
+- Bear, Base, and Bull scenarios
+- Revenue and margin forecasting
+- Operating income and net income projections
+- Diluted EPS calculations
+- P/E-based valuation
+- Implied share price analysis
+- Sensitivity analysis and dashboard charts
+
+**Project Repository:**  
+https://github.com/santidiazlondono/velora-athletics-financial-model
+
 
 ## Repository Structure
 
