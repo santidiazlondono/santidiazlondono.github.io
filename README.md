@@ -20,32 +20,33 @@ Analyzed financial statements and key ratios using Tableau, including profitabil
 **Project Repository:**  
 https://github.com/santidiazlondono/tableau-financial-statement-analysis
 
+### Derivatives Pricing, Hedging & Risk Analysis
+Completed two Excel-based academic projects at Rutgers Business School focused on futures markets, commodity pricing, hedging strategies, and financial risk management.
+
+**Project 1: Futures Pricing & Commodity Risk Analysis **
+- Analyzed futures contracts, commodity pricing, and margin requirements.
+- Evaluated financial positions and potential gains or losses using Excel-based calculations.
+
+**Project 2: Hedging & Risk Analysis **
+- Analyzed hedging strategies designed to reduce commodity price exposure.
+- Applied quantitative methods, including regression analysis, to evaluate hedge ratios and risk exposure.
+- Calculated futures contract requirements to assess hedging effectiveness.
+
+**Project Repository:**  
+https://github.com/santidiazlondono/derivatives-risk-analysis
+
 ## Skills Highlighted
 
 - Microsoft Excel
-- Financial Modeling
+- Financial Modeling & Forecasting
 - Financial Statement Analysis
 - Investment Analysis
 - Corporate Finance
-- Derivatives
-- Tableau
-- Data Visualization
+- Derivatives & Futures Markets
+- Hedging & Risk Management
+- Quantitative Financial Analysis
+- Tableau & Data Visualization
 - Financial Research
-- 
-### Velora Athletics Financial Forecast & Valuation Model
-A three-year Excel financial modeling case study featuring:
-
-- Historical financial analysis
-- Bear, Base, and Bull scenarios
-- Revenue and margin forecasting
-- Operating income and net income projections
-- Diluted EPS calculations
-- P/E-based valuation
-- Implied share price analysis
-- Sensitivity analysis and dashboard charts
-
-**Project Repository:**  
-https://github.com/santidiazlondono/velora-athletics-financial-model
 
 
 ## Repository Structure
